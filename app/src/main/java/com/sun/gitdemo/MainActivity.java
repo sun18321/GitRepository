@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("怎么不merage的的的第12行");
         System.out.println("测试不输密码");
+        System.out.println("看看什么名字");
     }
 }
